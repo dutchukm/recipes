@@ -1,4 +1,5 @@
 flour
 eggs
 maple syrup
+milk
 stir and eat
